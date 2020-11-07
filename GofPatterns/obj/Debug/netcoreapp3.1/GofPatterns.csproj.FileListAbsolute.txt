@@ -1,0 +1,13 @@
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.exe
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.deps.json
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.runtimeconfig.json
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.runtimeconfig.dev.json
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.dll
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\bin\Debug\netcoreapp3.1\GofPatterns.pdb
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.csprojAssemblyReference.cache
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.AssemblyInfoInputs.cache
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.AssemblyInfo.cs
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.csproj.CoreCompileInputs.cache
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.dll
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.pdb
+C:\Users\rsukh\source\repos\GofPatterns\GofPatterns\obj\Debug\netcoreapp3.1\GofPatterns.genruntimeconfig.cache
